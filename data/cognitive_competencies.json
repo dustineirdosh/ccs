@@ -1,621 +1,569 @@
 {
   "nodes": [
+    // Analyse - Cognitive Processes
     {
-      "id": "analyse_sciences_1",
-      "label": "Data Reasoning",
-      "text": "Analysing data to make grounded conclusions",
+      "id": "analyse_1",
+      "label": "Understands the relevant constituent parts",
+      "text": "understands the relevant constituent parts",
+      "source": "N/A",
+      "cognitive_process": "Analyse"
+    },
+    {
+      "id": "analyse_2",
+      "label": "Categorize",
+      "text": "categorize",
+      "source": "N/A",
+      "cognitive_process": "Analyse"
+    },
+    {
+      "id": "analyse_3",
+      "label": "Recognize connections and causal relation",
+      "text": "recognize connections and causal relation (inductive, deductive, and analogical reasoning is activated)",
+      "source": "N/A",
+      "cognitive_process": "Analyse"
+    },
+    // Analyse - Sciences
+    {
+      "id": "sciences_analyse_1",
+      "label": "Data reasoning",
+      "text": "Data reasoning: analysing data to make grounded conclusions",
       "source": "Masnick and Morris 2022",
       "subject_area": "Sciences",
-      "citation": "Masnick, A. M., & Morris, B. J. (2022). A Model of Scientific Data Reasoning. Education Sciences, 12, 71. https://doi.org/10.3390/educsci12020071"
+      "cognitive_process": "Analyse",
+      "citation": "Masnick, A. M., & Morris, B. J. (2022). A Model of Scientific Data Reasoning. *Education Sciences, 12*(2), 71. https://doi.org/10.3390/educsci12020071"
     },
     {
-      "id": "analyse_sciences_2",
-      "label": "Biological Reasoning",
-      "text": "Experimental evaluation relates to empirical investigations to establish patterns, differentiate objects, and test predictions",
+      "id": "sciences_analyse_2",
+      "label": "Biological reasoning",
+      "text": "Biological reasoning: experimental evaluation relates to empirical investigations to establish patterns, differentiate objects, and test predictions",
       "source": "Schellinger et al. 2021",
       "subject_area": "Sciences",
-      "citation": "Schellinger, J., Enderle, P. J., Roberts, K., Skrob-Martin, S., Rhemer, D., & Southerland, S. A. (2021). Describing the Development of the Assessment of Biological Reasoning (ABR). Education Sciences, 11, 669. https://doi.org/10.3390/educsci11110669"
+      "cognitive_process": "Analyse",
+      "citation": "Schellinger, J., Enderle, P. J., Roberts, K., Skrob-Martin, S., Rhemer, D., & Southerland, S. A. (2021). Describing the Development of the Assessment of Biological Reasoning (ABR). *Education Sciences, 11*(11), 669. https://doi.org/10.3390/educsci11110669"
     },
     {
-      "id": "analyse_sciences_3",
-      "label": "Categorisation and Classification",
+      "id": "sciences_analyse_3",
+      "label": "Categorisation and classification",
       "text": "Categorisation and classification",
-      "source": null,
+      "source": "N/A",
       "subject_area": "Sciences",
-      "citation": null
+      "cognitive_process": "Analyse"
     },
     {
-      "id": "analyse_sciences_4",
-      "label": "Evolutionary Reasoning",
-      "text": "Seeing connections between developments",
+      "id": "sciences_analyse_4",
+      "label": "Evolutionary reasoning",
+      "text": "Evolutionary reasoning—seeing connections between developments",
       "source": "Kind and Osborne 2017",
       "subject_area": "Sciences",
-      "citation": "Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? Science Education, 101, 8–31. https://doi.org/10.1002/sce.21251"
+      "cognitive_process": "Analyse",
+      "citation": "Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? *Science Education, 101*(1), 8–31. https://doi.org/10.1002/sce.21251"
     },
+    // Analyse - Mathematics
     {
-      "id": "analyse_math_1",
-      "label": "Change and Relationships",
+      "id": "math_analyse_1",
+      "label": "Reasoning about change and relationships",
       "text": "Reasoning about change and relationships",
       "source": "PISA2022 framework, OECD 2018",
       "subject_area": "Mathematics",
+      "cognitive_process": "Analyse",
       "citation": "OECD. (2018). The Future of Education and Skills: Education 2030. Position Paper. http://www.oecd.org/education/2030/E2030%20Position%20Paper%20(05.04.2018).pdf"
     },
     {
-      "id": "analyse_math_2",
-      "label": "Pattern Recognition and Decomposition",
-      "text": "Pattern recognition, decomposition, determining which (if any) computing tools could be employed in the analysing or solving the problem, and defining algorithms as part of a detailed solution",
+      "id": "math_analyse_2",
+      "label": "Pattern recognition and decomposition",
+      "text": "pattern recognition, decomposition, determining which (if any) computing tools could be employed in the analysing or solving the problem, and defining algorithms as part of a detailed solution",
       "source": "PISA2022, OECD 2018",
       "subject_area": "Mathematics",
+      "cognitive_process": "Analyse",
       "citation": "OECD. (2018). The Future of Education and Skills: Education 2030. Position Paper. http://www.oecd.org/education/2030/E2030%20Position%20Paper%20(05.04.2018).pdf"
     },
     {
-      "id": "analyse_math_3",
-      "label": "Computational Thinking",
+      "id": "math_analyse_3",
+      "label": "Computational thinking",
       "text": "Computational thinking is using abstraction and decomposition when attacking a large complex task or designing a large complex system",
       "source": "Wing 2006",
       "subject_area": "Mathematics",
-      "citation": "Wing, J. (2006). Computational Thinking. Communications of the ACM, 49, 33–35. https://doi.org/10.1145/1118178.1118215"
+      "cognitive_process": "Analyse",
+      "citation": "Wing, J. (2006). Computational Thinking. *Communications of the ACM, 49*(3), 33–35. https://doi.org/10.1145/1118178.1118215"
     },
     {
-      "id": "analyse_math_4",
-      "label": "Mathematical Deduction",
+      "id": "math_analyse_4",
+      "label": "Mathematical deduction",
       "text": "Mathematical deduction",
       "source": "Kind and Osborne 2017",
       "subject_area": "Mathematics",
-      "citation": "Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? Science Education, 101, 8–31. https://doi.org/10.1002/sce.21251"
+      "cognitive_process": "Analyse",
+      "citation": "Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? *Science Education, 101*(1), 8–31. https://doi.org/10.1002/sce.21251"
     },
+    // Analyse - Social Sciences/History
     {
-      "id": "analyse_social_1",
-      "label": "Cause and Consequence",
+      "id": "social_analyse_1",
+      "label": "Analysis of cause and consequence",
       "text": "Analysis of cause and consequence",
-      "source": null,
+      "source": "N/A",
       "subject_area": "Social Sciences/History",
-      "citation": null
+      "cognitive_process": "Analyse"
     },
     {
-      "id": "analyse_social_2",
-      "label": "Continuity and Change",
+      "id": "social_analyse_2",
+      "label": "Judging continuity and change",
       "text": "Judging about continuity and change, thus understanding individual elements and their relationships",
       "source": "Seixas and Morton 2012",
       "subject_area": "Social Sciences/History",
-      "citation": "Seixas, P., & Morton, T. (2012). The Big Six Historical Thinking Concepts. Toronto: Nelson."
+      "cognitive_process": "Analyse",
+      "citation": "Seixas, P., & Morton, T. (2012). *The Big Six Historical Thinking Concepts*. Toronto: Nelson."
     },
     {
-      "id": "analyse_social_3",
-      "label": "Argumentation through Analysis",
+      "id": "social_analyse_3",
+      "label": "Argumentation through analysis",
       "text": "Argumentation through analysis",
       "source": "van Boxtel and van Drie 2018",
       "subject_area": "Social Sciences/History",
-      "citation": "van Boxtel, C., & van Drie, J. (2018). Historical reasoning: Conceptualizations and educational applications. In The Wiley International Handbook of History Teaching and Learning (pp. 149–176). Hoboken: WileyBlackwell. https://doi.org/10.1002/9781119100812.ch6"
+      "cognitive_process": "Analyse",
+      "citation": "van Boxtel, C., & van Drie, J. (2018). Historical reasoning: Conceptualizations and educational applications. In *The Wiley International Handbook of History Teaching and Learning* (pp. 149–176). Hoboken: WileyBlackwell. https://doi.org/10.1002/9781119100812.ch6"
     },
+    // Analyse - Design and Technologies/Engineering
     {
-      "id": "analyse_design_1",
-      "label": "Identify Constituent Parts",
+      "id": "design_analyse_1",
+      "label": "Identify constituent parts and functions",
       "text": "Identify constituent parts and functions of a process or concept, or de-construct a methodology or process, making qualitative assessment of elements, relationships, values and effects; measure requirements or needs",
       "source": "Wrigley and Straker 2015",
       "subject_area": "Design and Technologies/Engineering",
-      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. Innovations in Education and Teaching International, 54, 374–385. https://doi.org/10.1080/14703297.2015.1108214"
+      "cognitive_process": "Analyse",
+      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. *Innovations in Education and Teaching International, 54*(4), 374–385. https://doi.org/10.1080/14703297.2015.1108214"
+    },
+    // Evaluate - Cognitive Processes
+    {
+      "id": "evaluate_1",
+      "label": "Evaluating info",
+      "text": "evaluating info (of various types or forms)",
+      "source": "N/A",
+      "cognitive_process": "Evaluate"
     },
     {
-      "id": "evaluate_sciences_1",
-      "label": "Experimental Evaluation",
+      "id": "evaluate_2",
+      "label": "Comparison",
+      "text": "comparison",
+      "source": "N/A",
+      "cognitive_process": "Evaluate"
+    },
+    {
+      "id": "evaluate_3",
+      "label": "Perspective taking",
+      "text": "perspective taking",
+      "source": "N/A",
+      "cognitive_process": "Evaluate"
+    },
+    {
+      "id": "evaluate_4",
+      "label": "Making decisions",
+      "text": "making decisions (inductive, deductive, and analogical reasoning is activated)",
+      "source": "N/A",
+      "cognitive_process": "Evaluate"
+    },
+    // Evaluate - Sciences
+    {
+      "id": "sciences_evaluate_1",
+      "label": "Experimental evaluation",
       "text": "Experimental evaluation, e.g., in Biological reasoning and in other sciences",
       "source": "Schellinger et al. 2021; Kind and Osborne 2017",
+      "subject_area": "Sciences",
       "cognitive_process": "Evaluate",
-      "citation": [
-        "Schellinger, J., Enderle, P. J., Roberts, K., Skrob-Martin, S., Rhemer, D., & Southerland, S. A. (2021). Describing the Development of the Assessment of Biological Reasoning (ABR). Education Sciences, 11, 669. https://doi.org/10.3390/educsci11110669",
-        "Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? Science Education, 101, 8–31. https://doi.org/10.1002/sce.21251"
-      ]
+      "citation": "Schellinger, J., Enderle, P. J., Roberts, K., Skrob-Martin, S., Rhemer, D., & Southerland, S. A. (2021). Describing the Development of the Assessment of Biological Reasoning (ABR). *Education Sciences, 11*(11), 669. https://doi.org/10.3390/educsci11110669; Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? *Science Education, 101*(1), 8–31. https://doi.org/10.1002/sce.21251"
     },
     {
-      "id": "evaluate_sciences_2",
-      "label": "Data Reasoning Evaluation",
+      "id": "sciences_evaluate_2",
+      "label": "Data reasoning for decisions",
       "text": "Data reasoning on available quantitative data: evaluating it to make decisions",
       "source": "Masnick and Morris 2022",
+      "subject_area": "Sciences",
       "cognitive_process": "Evaluate",
-      "citation": "Masnick, A. M., & Morris, B. J. (2022). A Model of Scientific Data Reasoning. Education Sciences, 12, 71. https://doi.org/10.3390/educsci12020071"
+      "citation": "Masnick, A. M., & Morris, B. J. (2022). A Model of Scientific Data Reasoning. *Education Sciences, 12*(2), 71. https://doi.org/10.3390/educsci12020071"
     },
     {
-      "id": "evaluate_sciences_3",
-      "label": "Scientific Literacy Explanations",
+      "id": "sciences_evaluate_3",
+      "label": "Evaluate explanations",
       "text": "Recognise, offer, and evaluate explanations for a range of natural and technological phenomena",
       "source": "OECD 2013",
+      "subject_area": "Sciences",
       "cognitive_process": "Evaluate",
-      "citation": "OECD. (2013). PISA 2012 Assessment and Analytical Framework: Mathematics, Reading, Science, Problem Solving and Financial Literacy, PISA. Paris: OECD Publishing. https://doi.org/10.1787/9789264190511-en"
+      "citation": "OECD. (2013). *PISA 2012 Assessment and Analytical Framework: Mathematics, Reading, Science, Problem Solving and Financial Literacy, PISA*. Paris: OECD Publishing. https://doi.org/10.1787/9789264190511-en"
     },
+    // Evaluate - Mathematics
     {
-      "id": "evaluate_math_1",
-      "label": "Mathematical Reasoning Validity",
-      "text": "Mathematical reasoning includes making judgements about the validity of information that bombards individuals by means of considering their quantitative and logical implications",
+      "id": "math_evaluate_1",
+      "label": "Mathematical reasoning judgments",
+      "text": "[mathematical reasoning] includes making judgements about the validity of information that bombards individuals by means of considering their quantitative and logical, implications",
       "source": "PISA2022 framework, OECD 2018",
+      "subject_area": "Mathematics",
       "cognitive_process": "Evaluate",
       "citation": "OECD. (2018). The Future of Education and Skills: Education 2030. Position Paper. http://www.oecd.org/education/2030/E2030%20Position%20Paper%20(05.04.2018).pdf"
     },
     {
-      "id": "evaluate_math_2",
-      "label": "Interpret and Evaluate",
-      "text": "Interpret and evaluate, evaluate the mathematical solution",
+      "id": "math_evaluate_2",
+      "label": "Interpret and evaluate",
+      "text": "interpret and evaluate, evaluate the mathematical solution",
       "source": "PISA2022 framework, OECD 2018",
+      "subject_area": "Mathematics",
       "cognitive_process": "Evaluate",
       "citation": "OECD. (2018). The Future of Education and Skills: Education 2030. Position Paper. http://www.oecd.org/education/2030/E2030%20Position%20Paper%20(05.04.2018).pdf"
     },
     {
-      "id": "evaluate_math_3",
-      "label": "Reasoning about Quantity",
+      "id": "math_evaluate_3",
+      "label": "Reasoning about quantity",
       "text": "Reasoning about quantity [that is in basic level comparing quantity]",
       "source": "PISA2022 framework, OECD 2018",
+      "subject_area": "Mathematics",
       "cognitive_process": "Evaluate",
       "citation": "OECD. (2018). The Future of Education and Skills: Education 2030. Position Paper. http://www.oecd.org/education/2030/E2030%20Position%20Paper%20(05.04.2018).pdf"
     },
+    // Evaluate - Social Sciences/History
     {
-      "id": "evaluate_social_1",
-      "label": "Evaluation of Evidence",
+      "id": "social_evaluate_1",
+      "label": "Evaluation of evidence",
       "text": "Evaluation of evidence",
       "source": "Seixas and Morton 2012",
+      "subject_area": "Social Sciences/History",
       "cognitive_process": "Evaluate",
-      "citation": "Seixas, P., & Morton, T. (2012). The Big Six Historical Thinking Concepts. Toronto: Nelson."
+      "citation": "Seixas, P., & Morton, T. (2012). *The Big Six Historical Thinking Concepts*. Toronto: Nelson."
     },
     {
-      "id": "evaluate_social_2",
-      "label": "Ethical Dimension",
+      "id": "social_evaluate_2",
+      "label": "Assessing ethical dimension",
       "text": "Assessing the ethical dimension",
       "source": "Seixas and Morton 2012",
+      "subject_area": "Social Sciences/History",
       "cognitive_process": "Evaluate",
-      "citation": "Seixas, P., & Morton, T. (2012). The Big Six Historical Thinking Concepts. Toronto: Nelson."
+      "citation": "Seixas, P., & Morton, T. (2012). *The Big Six Historical Thinking Concepts*. Toronto: Nelson."
     },
     {
-      "id": "evaluate_social_3",
-      "label": "Historical Significance Evaluation",
+      "id": "social_evaluate_3",
+      "label": "Historical significance evaluation",
       "text": "Historical significance: evaluation aspect of this concept",
       "source": "Seixas and Morton 2012",
+      "subject_area": "Social Sciences/History",
       "cognitive_process": "Evaluate",
-      "citation": "Seixas, P., & Morton, T. (2012). The Big Six Historical Thinking Concepts. Toronto: Nelson."
+      "citation": "Seixas, P., & Morton, T. (2012). *The Big Six Historical Thinking Concepts*. Toronto: Nelson."
     },
     {
-      "id": "evaluate_social_4",
-      "label": "Argumentation through Evaluation",
+      "id": "social_evaluate_4",
+      "label": "Argumentation through evaluation",
       "text": "Developing argument through evaluation",
       "source": "van Boxtel and van Drie 2018",
+      "subject_area": "Social Sciences/History",
       "cognitive_process": "Evaluate",
-      "citation": "van Boxtel, C., & van Drie, J. (2018). Historical reasoning: Conceptualizations and educational applications. In The Wiley International Handbook of History Teaching and Learning (pp. 149–176). Hoboken: WileyBlackwell. https://doi.org/10.1002/9781119100812.ch6"
+      "citation": "van Boxtel, C., & van Drie, J. (2018). Historical reasoning: Conceptualizations and educational applications. In *The Wiley International Handbook of History Teaching and Learning* (pp. 149–176). Hoboken: WileyBlackwell. https://doi.org/10.1002/9781119100812.ch6"
     },
+    // Evaluate - Design and Technologies/Engineering
     {
-      "id": "evaluate_design_1",
-      "label": "Assess Effectiveness",
+      "id": "design_evaluate_1",
+      "label": "Assess effectiveness",
       "text": "Assess effectiveness of whole concepts, in relation to values, outputs, efficacy, viability",
       "source": "Wrigley and Straker 2015",
+      "subject_area": "Design and Technologies/Engineering",
       "cognitive_process": "Evaluate",
-      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. Innovations in Education and Teaching International, 54, 374–385. https://doi.org/10.1080/14703297.2015.1108214"
+      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. *Innovations in Education and Teaching International, 54*(4), 374–385. https://doi.org/10.1080/14703297.2015.1108214"
     },
     {
-      "id": "evaluate_design_2",
-      "label": "Strategic Comparison",
-      "text": "Strategic comparison and review",
+      "id": "design_evaluate_2",
+      "label": "Strategic comparison and review",
+      "text": "strategic comparison and review",
       "source": "Wrigley and Straker 2015",
+      "subject_area": "Design and Technologies/Engineering",
       "cognitive_process": "Evaluate",
-      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. Innovations in Education and Teaching International, 54, 374–385. https://doi.org/10.1080/14703297.2015.1108214"
+      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. *Innovations in Education and Teaching International, 54*(4), 374–385. https://doi.org/10.1080/14703297.2015.1108214"
     },
     {
-      "id": "evaluate_design_3",
-      "label": "Prototype Evaluation",
+      "id": "design_evaluate_3",
+      "label": "Evaluation of prototypes",
       "text": "Evaluation of prototypes",
-      "source": null,
-      "cognitive_process": "Evaluate",
-      "citation": null
+      "source": "N/A",
+      "subject_area": "Design and Technologies/Engineering",
+      "cognitive_process": "Evaluate"
+    },
+    // Create - Cognitive Processes
+    {
+      "id": "create_1",
+      "label": "Hypothesising/forecasting",
+      "text": "hypothesising/forecasting",
+      "source": "N/A",
+      "cognitive_process": "Create"
     },
     {
-      "id": "create_sciences_1",
-      "label": "Hypothesising",
-      "text": "Hypothesising and hypothetical modelling in natural sciences",
+      "id": "create_2",
+      "label": "Modelling",
+      "text": "modelling",
+      "source": "N/A",
+      "cognitive_process": "Create"
+    },
+    {
+      "id": "create_3",
+      "label": "Planning of research",
+      "text": "planning (of a research)",
+      "source": "N/A",
+      "cognitive_process": "Create"
+    },
+    {
+      "id": "create_4",
+      "label": "Interpreting",
+      "text": "interpreting (inductive, deductive, and analogical reasoning can be activated during these activities)",
+      "source": "N/A",
+      "cognitive_process": "Create"
+    },
+    // Create - Sciences
+    {
+      "id": "sciences_create_1",
+      "label": "Hypothesising and modelling",
+      "text": "Hypothesising and hypothetical modelling",
       "source": "Kind and Osborne 2017",
+      "subject_area": "Sciences",
       "cognitive_process": "Create",
-      "citation": "Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? Science Education, 101, 8–31. https://doi.org/10.1002/sce.21251"
+      "citation": "Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? *Science Education, 101*(1), 8–31. https://doi.org/10.1002/sce.21251"
     },
     {
-      "id": "create_sciences_2",
-      "label": "Biological Hypothetical Modelling",
-      "text": "As a part of Biological reasoning, hypothetical modelling relates to the construction of models",
+      "id": "sciences_create_2",
+      "label": "Biological reasoning modelling",
+      "text": "in natural sciences; e.g., as a part of Biological reasoning (hypothetical modelling relates to the construction of models)",
       "source": "Schellinger et al. 2021",
+      "subject_area": "Sciences",
       "cognitive_process": "Create",
-      "citation": "Schellinger, J., Enderle, P. J., Roberts, K., Skrob-Martin, S., Rhemer, D., & Southerland, S. A. (2021). Describing the Development of the Assessment of Biological Reasoning (ABR). Education Sciences, 11, 669. https://doi.org/10.3390/educsci11110669"
+      "citation": "Schellinger, J., Enderle, P. J., Roberts, K., Skrob-Martin, S., Rhemer, D., & Southerland, S. A. (2021). Describing the Development of the Assessment of Biological Reasoning (ABR). *Education Sciences, 11*(11), 669. https://doi.org/10.3390/educsci11110669"
     },
     {
-      "id": "create_sciences_3",
-      "label": "Scientific Data Interpretation",
+      "id": "sciences_create_3",
+      "label": "Interpreting data scientifically",
       "text": "Interpreting data scientifically",
       "source": "OECD 2013",
+      "subject_area": "Sciences",
       "cognitive_process": "Create",
-      "citation": "OECD. (2013). PISA 2012 Assessment and Analytical Framework: Mathematics, Reading, Science, Problem Solving and Financial Literacy, PISA. Paris: OECD Publishing. https://doi.org/10.1787/9789264190511-en"
+      "citation": "OECD. (2013). *PISA 2012 Assessment and Analytical Framework: Mathematics, Reading, Science, Problem Solving and Financial Literacy, PISA*. Paris: OECD Publishing. https://doi.org/10.1787/9789264190511-en"
     },
+    // Create - Mathematics
     {
-      "id": "create_math_1",
-      "label": "Explain and Predict",
+      "id": "math_create_1",
+      "label": "Explain and predict phenomena",
       "text": "Explain and predict phenomena, formulate [real world situations] in mathematical terms",
       "source": "PISA2022, OECD 2018",
+      "subject_area": "Mathematics",
       "cognitive_process": "Create",
       "citation": "OECD. (2018). The Future of Education and Skills: Education 2030. Position Paper. http://www.oecd.org/education/2030/E2030%20Position%20Paper%20(05.04.2018).pdf"
     },
     {
-      "id": "create_math_2",
-      "label": "Uncertainty and Data",
+      "id": "math_create_2",
+      "label": "Reasoning about uncertainty",
       "text": "Reasoning about uncertainty and data",
       "source": "PISA2022, OECD 2018",
+      "subject_area": "Mathematics",
       "cognitive_process": "Create",
       "citation": "OECD. (2018). The Future of Education and Skills: Education 2030. Position Paper. http://www.oecd.org/education/2030/E2030%20Position%20Paper%20(05.04.2018).pdf"
     },
     {
-      "id": "create_math_3",
-      "label": "Probabilistic Reasoning",
+      "id": "math_create_3",
+      "label": "Probabilistic reasoning",
       "text": "Probabilistic reasoning",
       "source": "Kind and Osborne 2017",
+      "subject_area": "Mathematics",
       "cognitive_process": "Create",
-      "citation": "Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? Science Education, 101, 8–31. https://doi.org/10.1002/sce.21251"
+      "citation": "Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? *Science Education, 101*(1), 8–31. https://doi.org/10.1002/sce.21251"
     },
+    // Create - Social Sciences/History
     {
-      "id": "create_social_1",
-      "label": "Historical Significance Interpretation",
+      "id": "social_create_1",
+      "label": "Historical significance interpretation",
       "text": "Historical significance: interpreting and assigning significance to a historical process; creating the meaning within a historical narrative",
       "source": "Seixas and Morton 2012",
+      "subject_area": "Social Sciences/History",
       "cognitive_process": "Create",
-      "citation": "Seixas, P., & Morton, T. (2012). The Big Six Historical Thinking Concepts. Toronto: Nelson."
+      "citation": "Seixas, P., & Morton, T. (2012). *The Big Six Historical Thinking Concepts*. Toronto: Nelson."
     },
     {
-      "id": "create_social_2",
-      "label": "Abductive Reasoning",
+      "id": "social_create_2",
+      "label": "Abductive reasoning",
       "text": "Abductive reasoning to develop hypotheses",
-      "source": null,
-      "cognitive_process": "Create",
-      "citation": null
+      "source": "N/A",
+      "subject_area": "Social Sciences/History",
+      "cognitive_process": "Create"
     },
+    // Create - Design and Technologies/Engineering
     {
-      "id": "create_design_1",
-      "label": "Develop Structures",
+      "id": "design_create_1",
+      "label": "Develop new structures",
       "text": "Develop new unique structures, systems, models, approaches, ideas",
       "source": "Wrigley and Straker 2015",
+      "subject_area": "Design and Technologies/Engineering",
       "cognitive_process": "Create",
-      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. Innovations in Education and Teaching International, 54, 374–385. https://doi.org/10.1080/14703297.2015.1108214"
+      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. *Innovations in Education and Teaching International, 54*(4), 374–385. https://doi.org/10.1080/14703297.2015.1108214"
     },
     {
-      "id": "create_design_2",
-      "label": "Develop Plans",
+      "id": "design_create_2",
+      "label": "Develop plans or procedures",
       "text": "Develop plans or procedures, design solutions, integrate methods, resources, ideas, parts; create teams or new approaches",
       "source": "Wrigley and Straker 2015",
+      "subject_area": "Design and Technologies/Engineering",
       "cognitive_process": "Create",
-      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. Innovations in Education and Teaching International, 54, 374–385. https://doi.org/10.1080/14703297.2015.1108214"
+      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. *Innovations in Education and Teaching International, 54*(4), 374–385. https://doi.org/10.1080/14703297.2015.1108214"
     },
+    // Other Cognitive Processes
     {
-      "id": "other_sciences_1",
-      "label": "Visual-Spatial Organization",
+      "id": "other_1",
+      "label": "Visual-spatial skills",
+      "text": "Visual–spatial skills; mental rotation",
+      "source": "N/A",
+      "cognitive_process": "Other"
+    },
+    // Other - Sciences
+    {
+      "id": "sciences_other_1",
+      "label": "Visual-spatial organization",
       "text": "Visual–spatial organization of elements (in Chemistry)",
       "source": "Farran 2019; Newcombe 2016",
-      "cognitive_process": "Other (Visual–spatial skills)",
-      "citation": [
-        "Farran, E. K. (2019). Spatial Ability as a Gateway to STEM Success. https://my.chartered.college/impact_article/spatial-ability-as-a-gateway-to-stem-success/",
-        "Newcombe, N. (2016). Thinking spatially in the science classroom. Current Opinion in Behavioral Sciences, 10, 1–6. https://doi.org/10.1016/j.cobeha.2016.04.010"
-      ]
+      "subject_area": "Sciences",
+      "cognitive_process": "Other",
+      "citation": "Farran, E. K. (2019). Spatial Ability as a Gateway to STEM Success. https://my.chartered.college/impact_article/spatial-ability-as-a-gateway-to-stem-success/; Newcombe, N. (2016). Thinking spatially in the science classroom. *Current Opinion in Behavioral Sciences, 10*, 1–6. https://doi.org/10.1016/j.cobeha.2016.04.010"
     },
     {
-      "id": "other_sciences_2",
-      "label": "Visualising Structures",
+      "id": "sciences_other_2",
+      "label": "Visualising structures",
       "text": "Visualising structures, thinking spatially",
       "source": "Farran 2019; Newcombe 2016",
-      "cognitive_process": "Other (Visual–spatial skills)",
-      "citation": [
-        "Farran, E. K. (2019). Spatial Ability as a Gateway to STEM Success. https://my.chartered.college/impact_article/spatial-ability-as-a-gateway-to-stem-success/",
-        "Newcombe, N. (2016). Thinking spatially in the science classroom. Current Opinion in Behavioral Sciences, 10, 1–6. https://doi.org/10.1016/j.cobeha.2016.04.010"
+      "subject_area": "Sciences",
+      "cognitive_process": "Other",
+      "citation": "Farran, E. K. (2019). Spatial Ability as a Gateway to STEM Success. https://my.chartered.college/impact_article/spatial-ability-as-a-gateway-to-stem-success/; Newcombe, N. (2016). Thinking spatially in the science classroom. *Current Opinion in Behavioral Sciences, 10*, 1–6. https://doi.org/10.1016/j.cobeha.2016.04.010"
+    },
+    // Other - Mathematics
+    {
+      "id": "math_other_1",
+      "label": "Reasoning about space and shape",
+      "text": "Reasoning about space and shape: using geometrical representations [in the mind]",
+      "source": "PISA2022, OECD 2018",
+      "subject_area": "Mathematics",
+      "cognitive_process": "Other",
+      "citation": "OECD. (2018). The Future of Education and Skills: Education 2030. Position Paper. http://www.oecd.org/education/2030/E2030%20Position%20Paper%20(05.04.2018).pdf"
+    },
+    {
+      "id": "math_other_2",
+      "label": "Interpreting 3D scenes",
+      "text": "interpreting views of three-dimensional scenes from various perspectives and constructing representations of shapes",
+      "source": "PISA2022, OECD 2018",
+      "subject_area": "Mathematics",
+      "cognitive_process": "Other",
+      "citation": "OECD. (2018). The Future of Education and Skills: Education 2030. Position Paper. http://www.oecd.org/education/2030/E2030%20Position%20Paper%20(05.04.2018).pdf"
+    },
+    {
+      "id": "math_other_3",
+      "label": "Spatializing the curriculum",
+      "text": "Spatializing the curriculum",
+      "source": "Newcombe 2017",
+      "subject_area": "Mathematics",
+      "cognitive_process": "Other",
+      "citation": "Newcombe, N. (2017). Harnessing Spatial Thinking to Support Stem Learning. In *OECD Education Working Papers, No. 161*. Paris: OECD Publishing. https://doi.org/10.1787/7d5dcae6-en"
+    },
+    // Other - Social Sciences/History
+    {
+      "id": "social_other_1",
+      "label": "Historical perspective",
+      "text": "Historical perspective—different views of event",
+      "source": "Seixas and Morton 2012",
+      "subject_area": "Social Sciences/History",
+      "cognitive_process": "Other",
+      "citation": "Seixas, P., & Morton, T. (2012). *The Big Six Historical Thinking Concepts*. Toronto: Nelson."
+    },
+    // Other - Design and Technologies/Engineering
+    {
+      "id": "design_other_1",
+      "label": "Visualisation of designs",
+      "text": "Visualisation of designs, prototypes",
+      "source": "N/A",
+      "subject_area": "Design and Technologies/Engineering",
+      "cognitive_process": "Other"
+    }
+  ],
+  "hyperedges": [
+    // Subject Area Hyperedges
+    {
+      "id": "sciences",
+      "label": "Sciences",
+      "nodes": [
+        "sciences_analyse_1", "sciences_analyse_2", "sciences_analyse_3", "sciences_analyse_4",
+        "sciences_evaluate_1", "sciences_evaluate_2", "sciences_evaluate_3",
+        "sciences_create_1", "sciences_create_2", "sciences_create_3",
+        "sciences_other_1", "sciences_other_2"
       ]
     },
     {
-      "id": "other_math_1",
-      "label": "Space and Shape",
-      "text": "Reasoning about space and shape: using geometrical representations [in the mind]",
-      "source": "PISA2022, OECD 2018",
-      "cognitive_process": "Other (Visual–spatial skills)",
-      "citation": "OECD. (2018). The Future of Education and Skills: Education 2030. Position Paper. http://www.oecd.org/education/2030/E2030%20Position%20Paper%20(05.04.2018).pdf"
+      "id": "mathematics",
+      "label": "Mathematics",
+      "nodes": [
+        "math_analyse_1", "math_analyse_2", "math_analyse_3", "math_analyse_4",
+        "math_evaluate_1", "math_evaluate_2", "math_evaluate_3",
+        "math_create_1", "math_create_2", "math_create_3",
+        "math_other_1", "math_other_2", "math_other_3"
+      ]
     },
     {
-      "id": "other_math_2",
-      "label": "Interpreting 3D Views",
-      "text": "Interpreting views of three-dimensional scenes from various perspectives and constructing representations of shapes",
-      "source": "PISA2022, OECD 2018",
-      "cognitive_process": "Other (Visual–spatial skills)",
-      "citation": "OECD. (2018). The Future of Education and Skills: Education 2030. Position Paper. http://www.oecd.org/education/2030/E2030%20Position%20Paper%20(05.04.2018).pdf"
+      "id": "social_sciences_history",
+      "label": "Social Sciences/History",
+      "nodes": [
+        "social_analyse_1", "social_analyse_2", "social_analyse_3",
+        "social_evaluate_1", "social_evaluate_2", "social_evaluate_3", "social_evaluate_4",
+        "social_create_1", "social_create_2",
+        "social_other_1"
+      ]
     },
     {
-      "id": "other_math_3",
-      "label": "Spatializing Curriculum",
-      "text": "Spatializing the curriculum",
-      "source": "Newcombe 2017",
-      "cognitive_process": "Other (Visual–spatial skills)",
-      "citation": "Newcombe, N. (2017). Harnessing Spatial Thinking to Support Stem Learning. In OECD Education Working Papers. No. 161. Paris: OECD Publishing. https://doi.org/10.1787/7d5dcae6-en"
+      "id": "design_technologies_engineering",
+      "label": "Design and Technologies/Engineering",
+      "nodes": [
+        "design_analyse_1",
+        "design_evaluate_1", "design_evaluate_2", "design_evaluate_3",
+        "design_create_1", "design_create_2",
+        "design_other_1"
+      ]
+    },
+    // Cognitive Process Hyperedges
+    {
+      "id": "analyse",
+      "label": "Analyse",
+      "nodes": [
+        "analyse_1", "analyse_2", "analyse_3",
+        "sciences_analyse_1", "sciences_analyse_2", "sciences_analyse_3", "sciences_analyse_4",
+        "math_analyse_1", "math_analyse_2", "math_analyse_3", "math_analyse_4",
+        "social_analyse_1", "social_analyse_2", "social_analyse_3",
+        "design_analyse_1"
+      ]
     },
     {
-      "id": "other_social_1",
-      "label": "Historical Perspective",
-      "text": "Historical perspective—different views of event",
-      "source": "Seixas and Morton 2012",
-      "cognitive_process": "Other (Visual–spatial skills)",
-      "citation": "Seixas, P., & Morton, T. (2012). The Big Six Historical Thinking Concepts. Toronto: Nelson."
+      "id": "evaluate",
+      "label": "Evaluate",
+      "nodes": [
+        "evaluate_1", "evaluate_2", "evaluate_3", "evaluate_4",
+        "sciences_evaluate_1", "sciences_evaluate_2", "sciences_evaluate_3",
+        "math_evaluate_1", "math_evaluate_2", "math_evaluate_3",
+        "social_evaluate_1", "social_evaluate_2", "social_evaluate_3", "social_evaluate_4",
+        "design_evaluate_1", "design_evaluate_2", "design_evaluate_3"
+      ]
     },
     {
-      "id": "other_design_1",
-      "label": "Visualisation of Designs",
-      "text": "Visualisation of designs, prototypes",
-      "source": null,
-      "cognitive_process": "Other (Visual–spatial skills)",
-      "citation": null
+      "id": "create",
+      "label": "Create",
+      "nodes": [
+        "create_1", "create_2", "create_3", "create_4",
+        "sciences_create_1", "sciences_create_2", "sciences_create_3",
+        "math_create_1", "math_create_2", "math_create_3",
+        "social_create_1", "social_create_2",
+        "design_create_1", "design_create_2"
+      ]
     },
     {
-      "id": "analyse_cognitive_1",
-      "label": "Understands Constituent Parts",
-      "text": "Understands the relevant constituent parts",
-      "source": null,
-      "cognitive_process": "Analyse",
-      "citation": null
-    },
-    {
-      "id": "analyse_cognitive_2",
-      "label": "Categorize",
-      "text": "Categorize",
-      "source": null,
-      "cognitive_process": "Analyse",
-      "citation": null
-    },
-    {
-      "id": "analyse_cognitive_3",
-      "label": "Recognize Connections",
-      "text": "Recognize connections and causal relation",
-      "source": null,
-      "cognitive_process": "Analyse",
-      "citation": null
-    },
-    {
-      "id": "analyse_cognitive_4",
-      "label": "Reasoning Types",
-      "text": "Inductive, deductive, and analogical reasoning is activated",
-      "source": null,
-      "cognitive_process": "Analyse",
-      "citation": null
-    },
-    {
-      "id": "evaluate_cognitive_1",
-      "label": "Evaluating Info",
-      "text": "Evaluating info (of various types or forms)",
-      "source": null,
-      "cognitive_process": "Evaluate",
-      "citation": null
-    },
-    {
-      "id": "evaluate_cognitive_2",
-      "label": "Comparison",
-      "text": "Comparison",
-      "source": null,
-      "cognitive_process": "Evaluate",
-      "citation": null
-    },
-    {
-      "id": "evaluate_cognitive_3",
-      "label": "Perspective Taking",
-      "text": "Perspective taking",
-      "source": null,
-      "cognitive_process": "Evaluate",
-      "citation": null
-    },
-    {
-      "id": "evaluate_cognitive_4",
-      "label": "Making Decisions",
-      "text": "Making decisions",
-      "source": null,
-      "cognitive_process": "Evaluate",
-      "citation": null
-    },
-    {
-      "id": "evaluate_cognitive_5",
-      "label": "Reasoning Types Evaluate",
-      "text": "Inductive, deductive, and analogical reasoning is activated",
-      "source": null,
-      "cognitive_process": "Evaluate",
-      "citation": null
-    },
-    {
-      "id": "create_cognitive_1",
-      "label": "Hypothesising/Forecasting",
-      "text": "Hypothesising/forecasting",
-      "source": null,
-      "cognitive_process": "Create",
-      "citation": null
-    },
-    {
-      "id": "create_cognitive_2",
-      "label": "Modelling",
-      "text": "Modelling",
-      "source": null,
-      "cognitive_process": "Create",
-      "citation": null
-    },
-    {
-      "id": "create_cognitive_3",
-      "label": "Planning Research",
-      "text": "Planning (of a research)",
-      "source": null,
-      "cognitive_process": "Create",
-      "citation": null
-    },
-    {
-      "id": "create_cognitive_4",
-      "label": "Interpreting",
-      "text": "Interpreting (inductive, deductive, and analogical reasoning can be activated during these activities)",
-      "source": null,
-      "cognitive_process": "Create",
-      "citation": null
-    },
-    {
-      "id": "other_cognitive_1",
-      "label": "Visual-Spatial Skills",
-      "text": "Visual–spatial skills",
-      "source": null,
-      "cognitive_process": "Other (Visual–spatial skills)",
-      "citation": null
-    },
-    {
-      "id": "other_cognitive_2",
-      "label": "Mental Rotation",
-      "text": "Mental rotation",
-      "source": null,
-      "cognitive_process": "Other (Visual–spatial skills)",
-      "citation": null
+      "id": "other",
+      "label": "Other",
+      "nodes": [
+        "other_1",
+        "sciences_other_1", "sciences_other_2",
+        "math_other_1", "math_other_2", "math_other_3",
+        "social_other_1",
+        "design_other_1"
+      ]
     }
-  ],
-  "hyperedges": {
-    "subject_area": [
-      {
-        "id": "he_sciences",
-        "label": "Sciences",
-        "nodes": [
-          "analyse_sciences_1",
-          "analyse_sciences_2",
-          "analyse_sciences_3",
-          "analyse_sciences_4",
-          "evaluate_sciences_1",
-          "evaluate_sciences_2",
-          "evaluate_sciences_3",
-          "create_sciences_1",
-          "create_sciences_2",
-          "create_sciences_3",
-          "other_sciences_1",
-          "other_sciences_2"
-        ]
-      },
-      {
-        "id": "he_math",
-        "label": "Mathematics",
-        "nodes": [
-          "analyse_math_1",
-          "analyse_math_2",
-          "analyse_math_3",
-          "analyse_math_4",
-          "evaluate_math_1",
-          "evaluate_math_2",
-          "evaluate_math_3",
-          "create_math_1",
-          "create_math_2",
-          "create_math_3",
-          "other_math_1",
-          "other_math_2",
-          "other_math_3"
-        ]
-      },
-      {
-        "id": "he_social",
-        "label": "Social Sciences/History",
-        "nodes": [
-          "analyse_social_1",
-          "analyse_social_2",
-          "analyse_social_3",
-          "evaluate_social_1",
-          "evaluate_social_2",
-          "evaluate_social_3",
-          "evaluate_social_4",
-          "create_social_1",
-          "create_social_2",
-          "other_social_1"
-        ]
-      },
-      {
-        "id": "he_design",
-        "label": "Design and Technologies/Engineering",
-        "nodes": [
-          "analyse_design_1",
-          "evaluate_design_1",
-          "evaluate_design_2",
-          "evaluate_design_3",
-          "create_design_1",
-          "create_design_2",
-          "other_design_1"
-        ]
-      }
-    ],
-    "cognitive_process": [
-      {
-        "id": "he_analyse",
-        "label": "Analyse",
-        "nodes": [
-          "analyse_cognitive_1",
-          "analyse_cognitive_2",
-          "analyse_cognitive_3",
-          "analyse_cognitive_4",
-          "analyse_sciences_1",
-          "analyse_sciences_2",
-          "analyse_sciences_3",
-          "analyse_sciences_4",
-          "analyse_math_1",
-          "analyse_math_2",
-          "analyse_math_3",
-          "analyse_math_4",
-          "analyse_social_1",
-          "analyse_social_2",
-          "analyse_social_3",
-          "analyse_design_1"
-        ]
-      },
-      {
-        "id": "he_evaluate",
-        "label": "Evaluate",
-        "nodes": [
-          "evaluate_cognitive_1",
-          "evaluate_cognitive_2",
-          "evaluate_cognitive_3",
-          "evaluate_cognitive_4",
-          "evaluate_cognitive_5",
-          "evaluate_sciences_1",
-          "evaluate_sciences_2",
-          "evaluate_sciences_3",
-          "evaluate_math_1",
-          "evaluate_math_2",
-          "evaluate_math_3",
-          "evaluate_social_1",
-          "evaluate_social_2",
-          "evaluate_social_3",
-          "evaluate_social_4",
-          "evaluate_design_1",
-          "evaluate_design_2",
-          "evaluate_design_3"
-        ]
-      },
-      {
-        "id": "he_create",
-        "label": "Create",
-        "nodes": [
-          "create_cognitive_1",
-          "create_cognitive_2",
-          "create_cognitive_3",
-          "create_cognitive_4",
-          "create_sciences_1",
-          "create_sciences_2",
-          "create_sciences_3",
-          "create_math_1",
-          "create_math_2",
-          "create_math_3",
-          "create_social_1",
-          "create_social_2",
-          "create_design_1",
-          "create_design_2"
-        ]
-      },
-      {
-        "id": "he_other",
-        "label": "Other (Visual–spatial skills)",
-        "nodes": [
-          "other_cognitive_1",
-          "other_cognitive_2",
-          "other_sciences_1",
-          "other_sciences_2",
-          "other_math_1",
-          "other_math_2",
-          "other_math_3",
-          "other_social_1",
-          "other_design_1"
-        ]
-      }
-    ]
-  }
+  ]
+}
