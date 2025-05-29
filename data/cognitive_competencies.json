@@ -1,6 +1,5 @@
 {
   "nodes": [
-    // Analyse - Cognitive Processes
     {
       "id": "analyse_1",
       "label": "Understands the relevant constituent parts",
@@ -22,7 +21,6 @@
       "source": "N/A",
       "cognitive_process": "Analyse"
     },
-    // Analyse - Sciences
     {
       "id": "sciences_analyse_1",
       "label": "Data reasoning",
@@ -30,7 +28,7 @@
       "source": "Masnick and Morris 2022",
       "subject_area": "Sciences",
       "cognitive_process": "Analyse",
-      "citation": "Masnick, A. M., & Morris, B. J. (2022). A Model of Scientific Data Reasoning. *Education Sciences, 12*(2), 71. https://doi.org/10.3390/educsci12020071"
+      "citation": "Masnick, A. M., & Morris, B. J. (2022). A Model of Scientific Data Reasoning. Education Sciences, 12(2), 71. https://doi.org/10.3390/educsci12020071"
     },
     {
       "id": "sciences_analyse_2",
@@ -39,7 +37,7 @@
       "source": "Schellinger et al. 2021",
       "subject_area": "Sciences",
       "cognitive_process": "Analyse",
-      "citation": "Schellinger, J., Enderle, P. J., Roberts, K., Skrob-Martin, S., Rhemer, D., & Southerland, S. A. (2021). Describing the Development of the Assessment of Biological Reasoning (ABR). *Education Sciences, 11*(11), 669. https://doi.org/10.3390/educsci11110669"
+      "citation": "Schellinger, J., Enderle, P. J., Roberts, K., Skrob-Martin, S., Rhemer, D., & Southerland, S. A. (2021). Describing the Development of the Assessment of Biological Reasoning (ABR). Education Sciences, 11(11), 669. https://doi.org/10.3390/educsci11110669"
     },
     {
       "id": "sciences_analyse_3",
@@ -56,9 +54,8 @@
       "source": "Kind and Osborne 2017",
       "subject_area": "Sciences",
       "cognitive_process": "Analyse",
-      "citation": "Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? *Science Education, 101*(1), 8–31. https://doi.org/10.1002/sce.21251"
+      "citation": "Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? Science Education, 101(1), 8–31. https://doi.org/10.1002/sce.21251"
     },
-    // Analyse - Mathematics
     {
       "id": "math_analyse_1",
       "label": "Reasoning about change and relationships",
@@ -84,7 +81,7 @@
       "source": "Wing 2006",
       "subject_area": "Mathematics",
       "cognitive_process": "Analyse",
-      "citation": "Wing, J. (2006). Computational Thinking. *Communications of the ACM, 49*(3), 33–35. https://doi.org/10.1145/1118178.1118215"
+      "citation": "Wing, J. (2006). Computational Thinking. Communications of the ACM, 49(3), 33–35. https://doi.org/10.1145/1118178.1118215"
     },
     {
       "id": "math_analyse_4",
@@ -93,9 +90,8 @@
       "source": "Kind and Osborne 2017",
       "subject_area": "Mathematics",
       "cognitive_process": "Analyse",
-      "citation": "Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? *Science Education, 101*(1), 8–31. https://doi.org/10.1002/sce.21251"
+      "citation": "Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? Science Education, 101(1), 8–31. https://doi.org/10.1002/sce.21251"
     },
-    // Analyse - Social Sciences/History
     {
       "id": "social_analyse_1",
       "label": "Analysis of cause and consequence",
@@ -111,7 +107,7 @@
       "source": "Seixas and Morton 2012",
       "subject_area": "Social Sciences/History",
       "cognitive_process": "Analyse",
-      "citation": "Seixas, P., & Morton, T. (2012). *The Big Six Historical Thinking Concepts*. Toronto: Nelson."
+      "citation": "Seixas, P., & Morton, T. (2012). The Big Six Historical Thinking Concepts. Toronto: Nelson."
     },
     {
       "id": "social_analyse_3",
@@ -120,9 +116,8 @@
       "source": "van Boxtel and van Drie 2018",
       "subject_area": "Social Sciences/History",
       "cognitive_process": "Analyse",
-      "citation": "van Boxtel, C., & van Drie, J. (2018). Historical reasoning: Conceptualizations and educational applications. In *The Wiley International Handbook of History Teaching and Learning* (pp. 149–176). Hoboken: WileyBlackwell. https://doi.org/10.1002/9781119100812.ch6"
+      "citation": "van Boxtel, C., & van Drie, J. (2018). Historical reasoning: Conceptualizations and educational applications. In The Wiley International Handbook of History Teaching and Learning (pp. 149–176). Hoboken: WileyBlackwell. https://doi.org/10.1002/9781119100812.ch6"
     },
-    // Analyse - Design and Technologies/Engineering
     {
       "id": "design_analyse_1",
       "label": "Identify constituent parts and functions",
@@ -130,9 +125,8 @@
       "source": "Wrigley and Straker 2015",
       "subject_area": "Design and Technologies/Engineering",
       "cognitive_process": "Analyse",
-      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. *Innovations in Education and Teaching International, 54*(4), 374–385. https://doi.org/10.1080/14703297.2015.1108214"
+      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. Innovations in Education and Teaching International, 54(4), 374–385. https://doi.org/10.1080/14703297.2015.1108214"
     },
-    // Evaluate - Cognitive Processes
     {
       "id": "evaluate_1",
       "label": "Evaluating info",
@@ -161,7 +155,6 @@
       "source": "N/A",
       "cognitive_process": "Evaluate"
     },
-    // Evaluate - Sciences
     {
       "id": "sciences_evaluate_1",
       "label": "Experimental evaluation",
@@ -169,7 +162,7 @@
       "source": "Schellinger et al. 2021; Kind and Osborne 2017",
       "subject_area": "Sciences",
       "cognitive_process": "Evaluate",
-      "citation": "Schellinger, J., Enderle, P. J., Roberts, K., Skrob-Martin, S., Rhemer, D., & Southerland, S. A. (2021). Describing the Development of the Assessment of Biological Reasoning (ABR). *Education Sciences, 11*(11), 669. https://doi.org/10.3390/educsci11110669; Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? *Science Education, 101*(1), 8–31. https://doi.org/10.1002/sce.21251"
+      "citation": "Schellinger, J., Enderle, P. J., Roberts, K., Skrob-Martin, S., Rhemer, D., & Southerland, S. A. (2021). Describing the Development of the Assessment of Biological Reasoning (ABR). Education Sciences, 11(11), 669. https://doi.org/10.3390/educsci11110669; Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? Science Education, 101(1), 8–31. https://doi.org/10.1002/sce.21251"
     },
     {
       "id": "sciences_evaluate_2",
@@ -178,7 +171,7 @@
       "source": "Masnick and Morris 2022",
       "subject_area": "Sciences",
       "cognitive_process": "Evaluate",
-      "citation": "Masnick, A. M., & Morris, B. J. (2022). A Model of Scientific Data Reasoning. *Education Sciences, 12*(2), 71. https://doi.org/10.3390/educsci12020071"
+      "citation": "Masnick, A. M., & Morris, B. J. (2022). A Model of Scientific Data Reasoning. Education Sciences, 12(2), 71. https://doi.org/10.3390/educsci12020071"
     },
     {
       "id": "sciences_evaluate_3",
@@ -187,9 +180,8 @@
       "source": "OECD 2013",
       "subject_area": "Sciences",
       "cognitive_process": "Evaluate",
-      "citation": "OECD. (2013). *PISA 2012 Assessment and Analytical Framework: Mathematics, Reading, Science, Problem Solving and Financial Literacy, PISA*. Paris: OECD Publishing. https://doi.org/10.1787/9789264190511-en"
+      "citation": "OECD. (2013). PISA 2012 Assessment and Analytical Framework: Mathematics, Reading, Science, Problem Solving and Financial Literacy, PISA. Paris: OECD Publishing. https://doi.org/10.1787/9789264190511-en"
     },
-    // Evaluate - Mathematics
     {
       "id": "math_evaluate_1",
       "label": "Mathematical reasoning judgments",
@@ -217,7 +209,6 @@
       "cognitive_process": "Evaluate",
       "citation": "OECD. (2018). The Future of Education and Skills: Education 2030. Position Paper. http://www.oecd.org/education/2030/E2030%20Position%20Paper%20(05.04.2018).pdf"
     },
-    // Evaluate - Social Sciences/History
     {
       "id": "social_evaluate_1",
       "label": "Evaluation of evidence",
@@ -225,7 +216,7 @@
       "source": "Seixas and Morton 2012",
       "subject_area": "Social Sciences/History",
       "cognitive_process": "Evaluate",
-      "citation": "Seixas, P., & Morton, T. (2012). *The Big Six Historical Thinking Concepts*. Toronto: Nelson."
+      "citation": "Seixas, P., & Morton, T. (2012). The Big Six Historical Thinking Concepts. Toronto: Nelson."
     },
     {
       "id": "social_evaluate_2",
@@ -234,7 +225,7 @@
       "source": "Seixas and Morton 2012",
       "subject_area": "Social Sciences/History",
       "cognitive_process": "Evaluate",
-      "citation": "Seixas, P., & Morton, T. (2012). *The Big Six Historical Thinking Concepts*. Toronto: Nelson."
+      "citation": "Seixas, P., & Morton, T. (2012). The Big Six Historical Thinking Concepts. Toronto: Nelson."
     },
     {
       "id": "social_evaluate_3",
@@ -243,7 +234,7 @@
       "source": "Seixas and Morton 2012",
       "subject_area": "Social Sciences/History",
       "cognitive_process": "Evaluate",
-      "citation": "Seixas, P., & Morton, T. (2012). *The Big Six Historical Thinking Concepts*. Toronto: Nelson."
+      "citation": "Seixas, P., & Morton, T. (2012). The Big Six Historical Thinking Concepts. Toronto: Nelson."
     },
     {
       "id": "social_evaluate_4",
@@ -252,9 +243,8 @@
       "source": "van Boxtel and van Drie 2018",
       "subject_area": "Social Sciences/History",
       "cognitive_process": "Evaluate",
-      "citation": "van Boxtel, C., & van Drie, J. (2018). Historical reasoning: Conceptualizations and educational applications. In *The Wiley International Handbook of History Teaching and Learning* (pp. 149–176). Hoboken: WileyBlackwell. https://doi.org/10.1002/9781119100812.ch6"
+      "citation": "van Boxtel, C., & van Drie, J. (2018). Historical reasoning: Conceptualizations and educational applications. In The Wiley International Handbook of History Teaching and Learning (pp. 149–176). Hoboken: WileyBlackwell. https://doi.org/10.1002/9781119100812.ch6"
     },
-    // Evaluate - Design and Technologies/Engineering
     {
       "id": "design_evaluate_1",
       "label": "Assess effectiveness",
@@ -262,7 +252,7 @@
       "source": "Wrigley and Straker 2015",
       "subject_area": "Design and Technologies/Engineering",
       "cognitive_process": "Evaluate",
-      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. *Innovations in Education and Teaching International, 54*(4), 374–385. https://doi.org/10.1080/14703297.2015.1108214"
+      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. Innovations in Education and Teaching International, 54(4), 374–385. https://doi.org/10.1080/14703297.2015.1108214"
     },
     {
       "id": "design_evaluate_2",
@@ -271,7 +261,7 @@
       "source": "Wrigley and Straker 2015",
       "subject_area": "Design and Technologies/Engineering",
       "cognitive_process": "Evaluate",
-      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. *Innovations in Education and Teaching International, 54*(4), 374–385. https://doi.org/10.1080/14703297.2015.1108214"
+      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. Innovations in Education and Teaching International, 54(4), 374–385. https://doi.org/10.1080/14703297.2015.1108214"
     },
     {
       "id": "design_evaluate_3",
@@ -281,7 +271,6 @@
       "subject_area": "Design and Technologies/Engineering",
       "cognitive_process": "Evaluate"
     },
-    // Create - Cognitive Processes
     {
       "id": "create_1",
       "label": "Hypothesising/forecasting",
@@ -310,7 +299,6 @@
       "source": "N/A",
       "cognitive_process": "Create"
     },
-    // Create - Sciences
     {
       "id": "sciences_create_1",
       "label": "Hypothesising and modelling",
@@ -318,7 +306,7 @@
       "source": "Kind and Osborne 2017",
       "subject_area": "Sciences",
       "cognitive_process": "Create",
-      "citation": "Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? *Science Education, 101*(1), 8–31. https://doi.org/10.1002/sce.21251"
+      "citation": "Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? Science Education, 101(1), 8–31. https://doi.org/10.1002/sce.21251"
     },
     {
       "id": "sciences_create_2",
@@ -327,7 +315,7 @@
       "source": "Schellinger et al. 2021",
       "subject_area": "Sciences",
       "cognitive_process": "Create",
-      "citation": "Schellinger, J., Enderle, P. J., Roberts, K., Skrob-Martin, S., Rhemer, D., & Southerland, S. A. (2021). Describing the Development of the Assessment of Biological Reasoning (ABR). *Education Sciences, 11*(11), 669. https://doi.org/10.3390/educsci11110669"
+      "citation": "Schellinger, J., Enderle, P. J., Roberts, K., Skrob-Martin, S., Rhemer, D., & Southerland, S. A. (2021). Describing the Development of the Assessment of Biological Reasoning (ABR). Education Sciences, 11(11), 669. https://doi.org/10.3390/educsci11110669"
     },
     {
       "id": "sciences_create_3",
@@ -336,9 +324,8 @@
       "source": "OECD 2013",
       "subject_area": "Sciences",
       "cognitive_process": "Create",
-      "citation": "OECD. (2013). *PISA 2012 Assessment and Analytical Framework: Mathematics, Reading, Science, Problem Solving and Financial Literacy, PISA*. Paris: OECD Publishing. https://doi.org/10.1787/9789264190511-en"
+      "citation": "OECD. (2013). PISA 2012 Assessment and Analytical Framework: Mathematics, Reading, Science, Problem Solving and Financial Literacy, PISA. Paris: OECD Publishing. https://doi.org/10.1787/9789264190511-en"
     },
-    // Create - Mathematics
     {
       "id": "math_create_1",
       "label": "Explain and predict phenomena",
@@ -364,9 +351,8 @@
       "source": "Kind and Osborne 2017",
       "subject_area": "Mathematics",
       "cognitive_process": "Create",
-      "citation": "Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? *Science Education, 101*(1), 8–31. https://doi.org/10.1002/sce.21251"
+      "citation": "Kind, P., & Osborne, J. (2017). Styles of Scientific Reasoning: A Cultural Rationale for Science Education? Science Education, 101(1), 8–31. https://doi.org/10.1002/sce.21251"
     },
-    // Create - Social Sciences/History
     {
       "id": "social_create_1",
       "label": "Historical significance interpretation",
@@ -374,7 +360,7 @@
       "source": "Seixas and Morton 2012",
       "subject_area": "Social Sciences/History",
       "cognitive_process": "Create",
-      "citation": "Seixas, P., & Morton, T. (2012). *The Big Six Historical Thinking Concepts*. Toronto: Nelson."
+      "citation": "Seixas, P., & Morton, T. (2012). The Big Six Historical Thinking Concepts. Toronto: Nelson."
     },
     {
       "id": "social_create_2",
@@ -384,7 +370,6 @@
       "subject_area": "Social Sciences/History",
       "cognitive_process": "Create"
     },
-    // Create - Design and Technologies/Engineering
     {
       "id": "design_create_1",
       "label": "Develop new structures",
@@ -392,7 +377,7 @@
       "source": "Wrigley and Straker 2015",
       "subject_area": "Design and Technologies/Engineering",
       "cognitive_process": "Create",
-      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. *Innovations in Education and Teaching International, 54*(4), 374–385. https://doi.org/10.1080/14703297.2015.1108214"
+      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. Innovations in Education and Teaching International, 54(4), 374–385. https://doi.org/10.1080/14703297.2015.1108214"
     },
     {
       "id": "design_create_2",
@@ -401,9 +386,8 @@
       "source": "Wrigley and Straker 2015",
       "subject_area": "Design and Technologies/Engineering",
       "cognitive_process": "Create",
-      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. *Innovations in Education and Teaching International, 54*(4), 374–385. https://doi.org/10.1080/14703297.2015.1108214"
+      "citation": "Wrigley, C., & Straker, K. (2015). Design Thinking pedagogy: The Educational Design Ladder. Innovations in Education and Teaching International, 54(4), 374–385. https://doi.org/10.1080/14703297.2015.1108214"
     },
-    // Other Cognitive Processes
     {
       "id": "other_1",
       "label": "Visual-spatial skills",
@@ -411,7 +395,6 @@
       "source": "N/A",
       "cognitive_process": "Other"
     },
-    // Other - Sciences
     {
       "id": "sciences_other_1",
       "label": "Visual-spatial organization",
@@ -419,7 +402,7 @@
       "source": "Farran 2019; Newcombe 2016",
       "subject_area": "Sciences",
       "cognitive_process": "Other",
-      "citation": "Farran, E. K. (2019). Spatial Ability as a Gateway to STEM Success. https://my.chartered.college/impact_article/spatial-ability-as-a-gateway-to-stem-success/; Newcombe, N. (2016). Thinking spatially in the science classroom. *Current Opinion in Behavioral Sciences, 10*, 1–6. https://doi.org/10.1016/j.cobeha.2016.04.010"
+      "citation": "Farran, E. K. (2019). Spatial Ability as a Gateway to STEM Success. https://my.chartered.college/impact_article/spatial-ability-as-a-gateway-to-stem-success/; Newcombe, N. (2016). Thinking spatially in the science classroom. Current Opinion in Behavioral Sciences, 10, 1–6. https://doi.org/10.1016/j.cobeha.2016.04.010"
     },
     {
       "id": "sciences_other_2",
@@ -428,9 +411,8 @@
       "source": "Farran 2019; Newcombe 2016",
       "subject_area": "Sciences",
       "cognitive_process": "Other",
-      "citation": "Farran, E. K. (2019). Spatial Ability as a Gateway to STEM Success. https://my.chartered.college/impact_article/spatial-ability-as-a-gateway-to-stem-success/; Newcombe, N. (2016). Thinking spatially in the science classroom. *Current Opinion in Behavioral Sciences, 10*, 1–6. https://doi.org/10.1016/j.cobeha.2016.04.010"
+      "citation": "Farran, E. K. (2019). Spatial Ability as a Gateway to STEM Success. https://my.chartered.college/impact_article/spatial-ability-as-a-gateway-to-stem-success/; Newcombe, N. (2016). Thinking spatially in the science classroom. Current Opinion in Behavioral Sciences, 10, 1–6. https://doi.org/10.1016/j.cobeha.2016.04.010"
     },
-    // Other - Mathematics
     {
       "id": "math_other_1",
       "label": "Reasoning about space and shape",
@@ -456,9 +438,8 @@
       "source": "Newcombe 2017",
       "subject_area": "Mathematics",
       "cognitive_process": "Other",
-      "citation": "Newcombe, N. (2017). Harnessing Spatial Thinking to Support Stem Learning. In *OECD Education Working Papers, No. 161*. Paris: OECD Publishing. https://doi.org/10.1787/7d5dcae6-en"
+      "citation": "Newcombe, N. (2017). Harnessing Spatial Thinking to Support Stem Learning. In OECD Education Working Papers, No. 161. Paris: OECD Publishing. https://doi.org/10.1787/7d5dcae6-en"
     },
-    // Other - Social Sciences/History
     {
       "id": "social_other_1",
       "label": "Historical perspective",
@@ -466,9 +447,8 @@
       "source": "Seixas and Morton 2012",
       "subject_area": "Social Sciences/History",
       "cognitive_process": "Other",
-      "citation": "Seixas, P., & Morton, T. (2012). *The Big Six Historical Thinking Concepts*. Toronto: Nelson."
+      "citation": "Seixas, P., & Morton, T. (2012). The Big Six Historical Thinking Concepts. Toronto: Nelson."
     },
-    // Other - Design and Technologies/Engineering
     {
       "id": "design_other_1",
       "label": "Visualisation of designs",
@@ -479,7 +459,6 @@
     }
   ],
   "hyperedges": [
-    // Subject Area Hyperedges
     {
       "id": "sciences",
       "label": "Sciences",
@@ -520,7 +499,6 @@
         "design_other_1"
       ]
     },
-    // Cognitive Process Hyperedges
     {
       "id": "analyse",
       "label": "Analyse",
