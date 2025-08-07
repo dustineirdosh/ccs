@@ -1,0 +1,56 @@
+{
+  "design": {
+    "core_definition": "The emergence or construction of organized structure and function across systems, arising from agentic, evolutionary, or intentional processes operating within constraints.",
+    "dimensions": {
+      "structural_organization": "The patterned arrangement of elements into a coherent system or form.",
+      "functional_fit": "Alignment between the structure and some adaptive or operative purpose in context.",
+      "causal_origin": "May arise through intentional design, natural selection, self-organization, or social learning.",
+      "processual_dynamics": "Often shaped by iterative variation, feedback, interaction, and adaptation.",
+      "constraint_space": "Design emerges within limits set by materials, rules, environments, or historical trajectories.",
+      "agential_scale": "Ranges from individual human designers to collective, cultural, and biological processes."
+    },
+    "contexts": {
+      "disciplinary_contexts": {
+        "evolutionary_biology": "Phenotypic traits as design-like outcomes of natural selection without foresight.",
+        "complex_systems": "Patterns and functions arising from decentralized interactions of many agents (e.g., flocking, city growth).",
+        "cognitive_science": "The brain as a designed–evolved–emergent system with layered functions.",
+        "anthropology": "Cultural practices and technologies as emergent designs from distributed innovation.",
+        "engineering": "Design as both top-down planning and emergent properties of complex projects.",
+        "curriculum_theory": "Curricula as designed artifacts shaped by institutional constraints and cultural evolution."
+      },
+      "cultural_everyday_contexts": {
+        "language": "Grammatical structures as emergent conventions shaped by use over time.",
+        "urban_ecology": "City layout and function emerging from layered human activities and policy shifts.",
+        "online_platforms": "Platforms like Wikipedia or open-source software as emergent collective designs.",
+        "vernacular_architecture": "Structures evolved over generations without formal architects."
+      }
+    },
+    "functions_for_learners": {
+      "integrated_causal_reasoning": "Supports understanding of both intentional and emergent causes in natural and social worlds.",
+      "cross-domain_transfer": "Enables linking of design thinking in both natural and human-built systems.",
+      "agency-awareness": "Promotes reflection on one’s role as a designer or participant in larger systems.",
+      "creativity_and_responsiveness": "Trains learners to adaptively respond to affordances and constraints.",
+      "systemic_literacy": "Prepares learners to interpret, intervene in, and shape dynamic systems responsibly."
+    },
+    "curriculum_links": {
+      "biology": ["adaptation", "self-organization", "evo-devo"],
+      "social_sciences": ["institutional design", "cultural evolution", "distributed agency"],
+      "technology": ["participatory design", "bio-inspired design", "open-source development"],
+      "arts_and_humanities": ["emergent aesthetics", "evolution of form", "oral traditions"],
+      "competency_frameworks": ["systems thinking", "collaborative problem-solving", "adaptive expertise"]
+    },
+    "higher_concept_vectors": {
+      "emergence": 0.95,
+      "constraint_interaction": 0.85,
+      "distributed_agency": 0.9,
+      "structure-function_mapping": 0.9,
+      "recursive_dynamics": 0.8
+    },
+    "meta_reflections": {
+      "design_without_designer": "Design can emerge without foresight — e.g., termite mounds, language grammars, schooling systems.",
+      "nested_designs": "Design operates at multiple levels — individuals within institutions within ecologies.",
+      "design-for-design": "Educational settings can be meta-designed to cultivate learners’ capacities to co-create design processes.",
+      "values_and_power": "What counts as ‘good design’ is historically and politically situated — design encodes values and exclusions."
+    }
+  }
+}
