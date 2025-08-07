@@ -1,0 +1,55 @@
+{
+  "design": {
+    "core_definition": "The intentional structuring of elements to fulfill a purpose or solve a problem within constraints.",
+    "dimensions": {
+      "intentionality": "Driven by goals, values, or needs.",
+      "constraint_handling": "Operates within material, cognitive, cultural, or systemic limits.",
+      "iterative_process": "Often involves cycles of prototyping, testing, feedback, and revision.",
+      "user-centeredness": "Takes into account the needs, experiences, or values of users or stakeholders.",
+      "aesthetic/formal": "Includes considerations of beauty, coherence, or elegance.",
+      "functional_efficiency": "Addresses tradeoffs between cost, energy, performance, and time."
+    },
+    "contexts": {
+      "disciplinary_contexts": {
+        "engineering": "Structuring components to perform a technical function efficiently and safely.",
+        "architecture": "Organizing spatial and material forms to support human activity and expression.",
+        "education": "Creating learning environments, activities, or assessments that optimize student growth.",
+        "biology": "Understanding evolved structures as solutions shaped by natural selection (e.g., 'design-like' in function).",
+        "computer science": "Designing algorithms, data structures, and interfaces for functionality and scalability.",
+        "philosophy": "Interrogating normative and ethical dimensions of intentional creation."
+      },
+      "cultural_everyday_contexts": {
+        "fashion": "Combining function and aesthetics in clothing and personal expression.",
+        "cooking": "Designing meals that satisfy nutritional, cultural, and taste preferences.",
+        "DIY/making": "Hands-on solving of practical problems in home, community, or hobbies.",
+        "urban life": "Participating in or responding to the design of public spaces, transport, housing."
+      }
+    },
+    "functions_for_learners": {
+      "epistemic_agency": "Empowers students to structure problems and solutions in meaningful ways.",
+      "professional_transfer": "Relevant across sectors — engineering, media, teaching, product development, policy.",
+      "everyday_reasoning": "Applied in personal planning, decision-making, and problem-solving.",
+      "interdisciplinary_integration": "Connects technical, social, ethical, and creative domains.",
+      "identity_development": "Supports learners in seeing themselves as creators, not just consumers."
+    },
+    "curriculum_links": {
+      "STEM": ["engineering design process", "technological literacy"],
+      "arts": ["visual and material design", "creative expression"],
+      "humanities": ["design thinking", "intentional social change"],
+      "competency frameworks": ["critical thinking", "creativity", "collaboration", "systems thinking"]
+    },
+    "higher_concept_vectors": {
+      "agency": 0.9,
+      "constraint_optimization": 0.8,
+      "form-function mapping": 0.85,
+      "intentional systems": 0.95,
+      "recursive reasoning": 0.75
+    },
+    "meta_reflections": {
+      "context_dependence": "The meaning and quality of design vary with context — good design in one domain may be poor in another.",
+      "scalability": "Design occurs from micro (e.g., sentence) to macro (e.g., institution) levels.",
+      "values-expressivity": "Design reflects and shapes cultural, ethical, and personal values.",
+      "design-as-inquiry": "Design processes often involve scientific reasoning, iteration, and creative experimentation."
+    }
+  }
+}
